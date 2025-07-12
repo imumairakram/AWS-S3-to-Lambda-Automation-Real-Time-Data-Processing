@@ -1,0 +1,5 @@
+lambda = fn-stock-price-ua
+role = role-stock-price-ua
+s3 = s3-stock-price-ua
+    sub-directory = input-data/
+    sub-directory = output-data/
